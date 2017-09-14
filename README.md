@@ -1,5 +1,7 @@
 # Symfony3Redis
 
+[![Build Status](https://travis-ci.org/Tony133/Symfony3Redis.svg?branch=master)](https://travis-ci.org/Tony133/Symfony3Redis)
+
 Simple Example Redis with Symfony 3.3
 
 ## Install with Composer
