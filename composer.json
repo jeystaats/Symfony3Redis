@@ -2,7 +2,7 @@
     "name": "tony133/symfony3-redis",
     "license": "MIT",
     "type": "project",
-    "description": "simple example redis with symfony 3.3",
+    "description": "simple example redis with symfony 3.4 LTS",
     "autoload": {
         "psr-4": {
             "AppBundle\\": "src/AppBundle"
